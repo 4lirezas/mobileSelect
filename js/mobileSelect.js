@@ -191,19 +191,19 @@
 			_this.mobileSelect.innerHTML =
 		    	'<div class="grayLayer"></div>'+
 		        '<div class="content">'+
-		            '<div class="btnBar">'+
-		                '<div class="fixWidth">'+
-		                    '<div class="cancel">'+ cancelText +'</div>'+
-		                    '<div class="title"></div>'+
-		                    '<div class="ensure">'+ ensureText +'</div>'+
-		                '</div>'+
-		            '</div>'+
 		            '<div class="panel">'+
 		                '<div class="fixWidth">'+
 		                	'<div class="wheels">'+
 			                '</div>'+
 		                    '<div class="selectLine"></div>'+
 		                    '<div class="shadowMask"></div>'+
+		                '</div>'+
+		            '</div>'+
+		            '<div class="btnBar">'+
+		                '<div class="fixWidth">'+
+		                    '<div class="cancel">'+ cancelText +'</div>'+
+		                    '<div class="title"></div>'+
+		                    '<div class="ensure">'+ ensureText +'</div>'+
 		                '</div>'+
 		            '</div>'+
 		        '</div>';
